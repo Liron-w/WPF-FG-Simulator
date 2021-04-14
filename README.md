@@ -63,10 +63,14 @@ The view model is the  connecting layer between the model and the view.
 We have one  model,  “FGmodel”,  that responsible for all the logic of the application.  
 
 # structure project:
-There are a few folders:  
+There are a few folders:
+
 1. simulator -  the main folder with the solution project.  
+
 2. packages  - there is the Oxplot libary - you should have it in the project.  
+
 3. filesAndDiagrams -  the files that needed to upload, and the UML diagrams.  
+
 4. plugins - there is the dll library.  
 
 
